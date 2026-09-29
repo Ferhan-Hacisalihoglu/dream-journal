@@ -50,12 +50,3 @@
 | **Lucide React** | 1.48 | Vektörel, minimalist arayüz ikonları |
 | **Canvas Confetti** | 1.9 | Yeni rüya kaydında kutlama efekti |
 
----
-
-### Üretim (Production) Derlemesi:
-
-```bash
-npm run build
-```
-
-Derlenen dosyalar `dist/` klasöründe hazır hale gelir. Proje, Netlify üzerinde doğrudan tek tıkla yayınlanabilir (`public/_redirects` dosyası dahil edilmiştir).
