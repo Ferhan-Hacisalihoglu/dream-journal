@@ -1,8 +1,10 @@
 # DreamJournal. — Rüya Günlüğü & Bilinçaltı Analizi
 
-> Bilinçaltınızın haritasını çıkarın, rüyalarınızı unutmadan kaydedin ve sık görülen sembolleri analiz edin.
-
-Bu proje, modern **React + Vite + TypeScript + Tailwind CSS** altyapısıyla geliştirilmiş, zaman ve göreceli tarih yönetimi için **Moment.js** kullanan, **[DoodleMind](https://github.com/Ferhan-Hacisalihoglu/DoodleMind)**'ın estetik çalışma masası (workbench) ve hap (pill) navigasyon mimarisinden esinlenilmiş interaktif bir web uygulamasıdır.
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5%2B-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6%2B-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?logo=tailwindcss&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Icons-Lucide_React-F56565?logo=feather&logoColor=white)
 
 ---
 
@@ -49,23 +51,6 @@ Bu proje, modern **React + Vite + TypeScript + Tailwind CSS** altyapısıyla gel
 | **Canvas Confetti** | 1.9 | Yeni rüya kaydında kutlama efekti |
 
 ---
-
-## 🚀 Kurulum ve Çalıştırma
-
-Projeyi yerel makinenizde çalıştırmak için:
-
-```bash
-# 1. Proje dizinine gidin
-cd c:/Project/Other/dream-journal
-
-# 2. Bağımlılıkları yükleyin
-npm install --legacy-peer-deps
-
-# 3. Geliştirme sunucusunu başlatın
-npm run dev
-```
-
-Tarayıcınızda açılan adrese (genellikle `http://localhost:5173`) giderek uygulamayı kullanmaya başlayabilirsiniz.
 
 ### Üretim (Production) Derlemesi:
 
