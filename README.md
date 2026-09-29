@@ -8,8 +8,6 @@
 
 > Kullanıcıların gördükleri rüyaları unutmadan kayıt altına alabildiği, bilinçaltı sembollerini etiketleyip frekans analizi yapabildiği, duygu durum (mood) dağılımlarını ve ardışık rüya serilerini (streak) takip edebildiği modern, istemci taraflı (client-side) bir web uygulamasıdır.
 
-Arayüz mimarisi, [DoodleMind](https://github.com/Ferhan-Hacisalihoglu/DoodleMind) projesinin çift kolonlu çalışma masası (workbench), üst hap (pill) navigasyon sistemi ve anlık filtreleme estetiğinden esinlenilerek tasarlanmıştır.
-
 ---
 
 ## 🏗️ 1. Mimari ve Teknik Altyapı
