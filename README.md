@@ -20,7 +20,7 @@ Uygulama, harici bir veritabanı sunucusu bağımlılığı olmadan **Offline-Fi
 ├────────────────────────────────────────────────────────────────────────┤
 │  [ UI Layer ]                                                          │
 │  React 19 Components + Tailwind CSS v4 + Lucide Icons                  │
-│  (Header, HeroSection, Workbench Grid, DreamCard, QuickStatsCard)       │
+│  (Header, HeroSection, Workbench Grid, DreamCard, QuickStatsCard)      │
 ├────────────────────────────────────────────────────────────────────────┤
 │  [ State & Hook Katmanı ]                                              │
 │  useDreams (CRUD, Filter & Search Memoization)                         │
@@ -199,3 +199,26 @@ if (uniqueDates.includes(todayStr) || uniqueDates.includes(yesterdayStr)) {
   - 😰 Kaygılı: Kehribar Sarısı (`amber`)
   - 😢 Hüzünlü & Melankolik: İndigo Moru (`indigo`)
   - 😱 Korkmuş: Gül Pembesi (`rose`)
+ 
+--- 
+
+## 📸 Ekran Görüntüleri
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="1919" height="1242" alt="Screenshot 2026-09-29 at 20-55-09 DreamJournal  — Rüya Günlüğü   Bilinçaltı Analizi" src="https://github.com/user-attachments/assets/2fb17624-6c06-44ab-9383-cecbee3f09d7" />
+    </td>
+    <td width="50%" align="center">
+      <img width="1919" height="1757" alt="Screenshot 2026-09-29 at 20-54-35 DreamJournal  — Rüya Günlüğü   Bilinçaltı Analizi" src="https://github.com/user-attachments/assets/c069562e-697b-42ed-80ad-2e35b4aee5a2" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="1919" height="1302" alt="Screenshot 2026-09-29 at 20-54-46 DreamJournal  — Rüya Günlüğü   Bilinçaltı Analizi" src="https://github.com/user-attachments/assets/38dc0228-6781-46e5-887e-ba2aef2b9be4" />
+    </td>
+    <td width="50%" align="center">
+      <img width="1919" height="1005" alt="Screenshot 2026-09-29 at 20-54-55 DreamJournal  — Rüya Günlüğü   Bilinçaltı Analizi" src="https://github.com/user-attachments/assets/5fe0f9d0-7d37-4a97-92f8-a3ec13552955" />
+    </td>
+  </tr>
+</table>
